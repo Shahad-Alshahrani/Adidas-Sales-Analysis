@@ -1,6 +1,7 @@
 # 👟 Adidas Sales Analysis
 
-<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/09d0e7a1-065c-4a7c-9b7f-4ad26d2cfefe" />
+<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/2d167718-14bc-43c0-a7ca-9c88669375b7" />
+
 
 
 
